@@ -26,3 +26,6 @@ Bienvenue dans le tutoriel DM ALL ! Suivez ces étapes simples pour configurer e
 **Note :** Respectez les règles et conditions d'utilisation de Discord lors de l'utilisation de ce programme. L'abus de cette fonctionnalité peut entraîner des sanctions de la part de Discord.
 
 Félicitations ! Vous avez maintenant configuré et utilisé le programme DM ALL avec succès. En cas de problème, assurez-vous d'avoir suivi chaque étape correctement et vérifiez la console pour d'éventuelles erreurs. Amusez-vous bien !
+
+
+BIEN EXTRAIRE LE DOSSIER EXTRACTME.rar sinon il ne marchera pas
